@@ -22,6 +22,9 @@
       },
       "typescript": {
         "alwaysTryTypes": true
+      },
+      "prettier": {
+        "singleQuote": true
       }
     }
   },
